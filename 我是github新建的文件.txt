@@ -2,7 +2,7 @@
 
 本地pull远程仓库数据后，修改信息，测试push到远程仓库。
 
-20211112 在本地仓库建立与 github远程仓库的SSH后，test.
+20211112 在本地仓库建立与 github远程仓库的SSH后，test.       github已收到
 
 
 
